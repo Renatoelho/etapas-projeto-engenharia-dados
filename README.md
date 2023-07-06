@@ -1,7 +1,7 @@
 # Etapas de um projeto de engenharia de dados
 
 
-### Definição de escopo
+### 1 - Definição de escopo
 
 Nesta fase, identificamos os objetivos e requisitos do projeto. Analisamos as necessidades dos clientes e definimos os dados que serão coletados e processados.
 
@@ -28,7 +28,7 @@ Nesta fase, identificamos os objetivos e requisitos do projeto. Analisamos as ne
   + Faça pequenos testes, encontre possíveis desafios técnicos o quanto antes .
 
 
-### Coleta de dados
+### 2 - Coleta de dados
 
 Aqui, realizamos a coleta de dados de diferentes fontes, como bancos de dados, APIs e arquivos externos. Essa etapa é crucial para garantir que tenhamos todas as informações necessárias para análise e tomada de decisões.
 
@@ -41,7 +41,7 @@ Aqui, realizamos a coleta de dados de diferentes fontes, como bancos de dados, A
   + Horários de frequência das extrações de dados.
 
 
-### Limpeza e transformação
+### 3 - Limpeza e transformação
 
 Os dados coletados nem sempre estão prontos para uso. Nessa etapa, realizamos a limpeza dos dados, removendo duplicatas e valores inconsistentes. Também os transformamos para que fiquem no formato adequado para análise.
 
@@ -58,7 +58,7 @@ Os dados coletados nem sempre estão prontos para uso. Nessa etapa, realizamos a
   + Transformações.
 
 
-### Modelagem e construção
+### 4 - Modelagem e construção
 
 Nessa fase, criamos modelos de dados que permitirão a organização e estruturação dos dados. Construímos pipelines de processamento para transformar os dados brutos em informações úteis e relevantes.
 
@@ -73,7 +73,7 @@ Nessa fase, criamos modelos de dados que permitirão a organização e estrutura
   + Relacionamento entre as tabelas/bases.
 
 
-### Análise e visualização
+### 5 - Análise e visualização
 
 Chegou a hora de explorar os dados! Realizamos análises estatísticas, mineração de dados e criação de visualizações para identificar padrões, tendências e insights valiosos.
 
@@ -86,7 +86,7 @@ Chegou a hora de explorar os dados! Realizamos análises estatísticas, mineraç
   + Comparação com outros relatórios - Aleatório ou agregados.
 
 
-### Monitoramento e manutenção
+### 6 - Monitoramento e manutenção
 
 Após a implementação do projeto, é fundamental monitorar continuamente o desempenho e a qualidade dos dados. Também realizamos manutenções regulares para garantir que o sistema esteja sempre atualizado e funcionando corretamente.
 
@@ -99,7 +99,7 @@ Após a implementação do projeto, é fundamental monitorar continuamente o des
   + Qualidade dos dados.
 
 
-### Entrega e documentação
+### 7 - Entrega e documentação
 
 Por fim, entregamos os resultados aos stakeholders e documentamos todas as etapas e decisões tomadas ao longo do projeto. Essa documentação é valiosa para futuras referências e para o aprimoramento de projetos semelhantes.
 
