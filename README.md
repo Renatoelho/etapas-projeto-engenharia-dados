@@ -55,7 +55,7 @@ Os dados coletados nem sempre estão prontos para uso. Nessa etapa, realizamos a
 
   + Regras de negócios;
 
- + Transformações.
+  + Transformações.
 
 
 ### Modelagem e construção
