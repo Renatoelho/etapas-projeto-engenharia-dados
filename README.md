@@ -38,7 +38,7 @@ Aqui, realizamos a coleta de dados de diferentes fontes, como bancos de dados, A
 
   + Volumetria;
 
-  + Horários de frequência das extrações de dados.
+  + Horários e frequência das extrações de dados.
 
 
 ### 3 - Limpeza e transformação
